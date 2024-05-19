@@ -1,5 +1,5 @@
 resource "aws_glue_catalog_database" "ccindex" {
-  name = "ccindex"
+  name = "steven_ccindex"
 }
 
 
